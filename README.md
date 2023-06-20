@@ -1,0 +1,1 @@
+# This-repository-is-for-deploying-N-Solid-with-Kubernetes.-It-
